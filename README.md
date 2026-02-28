@@ -1,4 +1,5 @@
-Thank you guys for 2 years, it's been a pleasure <3
+"Thank you guys for 2 years, it's been a pleasure <3" - IIDK
+This is a LTS Version of iis Stupid Mod Menu the first LTS version was made by CubicCreeper and Nyph I just Rereleased it 
 
 
 <p align="center">
