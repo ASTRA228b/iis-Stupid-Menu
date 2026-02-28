@@ -45,13 +45,13 @@ namespace iiMenu.Classes.Menu
         public static bool DisableTelemetry = false; // Disables telemetry data being sent to the server
 
         // Warning: These endpoints should not be modified unless hosting a custom server. Use with caution.
-        public const string ServerEndpoint = "https://iimodinfo.vercel.app";
-        public static readonly string ServerDataEndpoint = $"{ServerEndpoint}/serverdata.json";
+        public const string ServerEndpoint = "https://iimenu-lts-serverdata.vercel.app";
+        public static readonly string ServerDataEndpoint = $"{ServerEndpoint}/admins.json";
 
         // The dictionary used to assign the admins only seen in your mod.
         public static readonly Dictionary<string, string> LocalAdmins = new Dictionary<string, string>()
         {
-           { "EA04C615E73A85EB", "ASTRA" },
+          // { "EA04C615E73A85EB", "ASTRA" },
         };
 
         public static void SetupAdminPanel(string playername) => // Method used to spawn admin panel
@@ -92,7 +92,9 @@ namespace iiMenu.Classes.Menu
 
             if (File.Exists($"{PluginInfo.BaseDirectory}/LastPollAnswered.txt"))
                 LastPollAnswered = File.ReadAllText($"{PluginInfo.BaseDirectory}/LastPollAnswered.txt");
+            Administrators.AddRange(LocalAdmins);
         }
+        
 
         public void Update()
         {
