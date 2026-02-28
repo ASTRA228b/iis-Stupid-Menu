@@ -1,6 +1,6 @@
-"Thank you guys for 2 years, it's been a pleasure <3" - IIDK
-This is a LTS Version of iis Stupid Mod Menu the first LTS version was made by CubicCreeper and Nyph I just Rereleased it 
-
+<div align="center">
+	<p>"Thank you guys for 2 years, it's been a pleasure <3" - iiDk</p>
+</div>
 
 <p align="center">
   <a href="#"><img src="Resources/GitHub/icon.png"></a>
@@ -10,18 +10,25 @@ This is a LTS Version of iis Stupid Mod Menu the first LTS version was made by C
 ---
 
 <p align="center">
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
-	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://github.com/ASTRA228b/iis-Stupid-Menu/releases"><img src="https://img.shields.io/github/v/release/ASTRA228b/iis-Stupid-Menu?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/ASTRA228b/iis-Stupid-Menu/releases/latest"><img src="https://img.shields.io/github/downloads/ASTRA228b/iis-Stupid-Menu/latest/ii.s_Stupid_Menu.dll?style=for-the-badge"></a>
+	<a href="https://discord.gg/Y5P337p9"><img src="https://img.shields.io/discord/1466040920981114890?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
 ---
 
 # <img src="Resources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
 
-ii's Stupid Menu is a **feature-packed** mod menu for Gorilla Tag, built by me, [**iiDk**](https://github.com/iiDk-the-actual). Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
+ii's Stupid Menu is a **feature-packed** mod menu for Gorilla Tag, built by [**iiDk**](https://github.com/iiDk-the-actual) and continued by [ASTRA](https://github.com/ASTRA228b), [CubicCreeper](https://github.com/CubicCreeper), [nyphrux](https://github.com/nyphrux).
+
+Whether you just want mods, are a developer, or anything in between, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
 
 > Why settle for boring when you can have *stupidly* good?  
+
+> [!NOTE] 
+> This is a LTS version of ii's Stupid Menu.
+> The original is no longer recieving updates as iiDk has dropped development.
+> This fork will be ran by <b>ASTRA</b>
 
 <details>
   <summary><b>💡 Why open-source?</b></summary>
@@ -49,6 +56,17 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 
 > "You wouldn’t steal a method."<br>
 > [🎥 *(Or would you?)*](https://www.youtube.com/watch?v=zMBqPdMzZ9E)
+
+</details>
+
+<details>
+  <summary><b>🐀 Is this mod ratted?</b></summary>
+	
+No, ii's Stupid Menu (Original or not) isn't ratted. It gets detected by windows defender as its not a signed file and opens connections to websites online for data.
+> The menu sends requests to https://iidk.online for telemetry, administrative, and TTS (text to speech) purposes.<br>
+> The menu sends requests to https://text.pollinations.ai for the mod **AI Assistant**. (when enabled)<br>
+> The menu sends requests to https://lazypy.ro for many TTS voices.<br>
+All past accusations of ii's Stupid Menu (Original or not) of the menu being ratted are <b>NOT</b> true.
 
 </details>
 
@@ -106,21 +124,11 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 
 </details>
 
-<details>
-  <summary><b>🗣️ Contact Information</b></summary>
-	
-Need help or want to collaborate? Here are some of my sources of contact:
-- Telegram: [@crimsoncauldron](https://t.me/crimsoncauldron)
-- Discord: [@crimsoncauldron](https://discord.gg/iidk)
-- YouTube: [@iiDk_](https://www.youtube.com/@iiDk_)
-- Email: [admin@goldentrophy.software](mailto:admin@goldentrophy.software)
-
-</details>
-
 <details open>
   <summary><b>💖 Support</b></summary>
 	
-If you wish to support me, here are some of the ways you can!
+Please do support iiDk as he deserves better after what happened.
+Heres some of his links you can hop over to.
 
 | Platform   | Link | Address |
 |------------|------|---------|
@@ -135,16 +143,17 @@ If you wish to support me, here are some of the ways you can!
 
 > [!NOTE] 
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.<br>
-> Menu sends requests to https://iimodinfo.vercel.app for telemetry, administrative, and TTS (text to speech) purposes.<br>
+> Menu sends requests to https://iidk.online for telemetry, administrative, and TTS (text to speech) purposes.<br>
 > Menu sends requests to https://text.pollinations.ai for the mod **AI Assistant**. (when enabled)<br>
 > Menu sends requests to https://lazypy.ro for many TTS voices.<br>
 > Menu connects to wss://iidk.online for friend system and administrative purposes.<br>
 > The donate, search, star and speak symbols are made by [Icons8](https://icons8.com).
 
-> ii's Stupid Menu  README.md<br>
+> ii's Stupid Menu - README.md<br>
 > A mod menu for Gorilla Tag with over 1000+ mods
 >
-> https://github.com/CubicCreeper/iis.Stupid.Menu-LTS
+> Copyright (C) 2026  Goldentrophy Software [Deprecated]
+> https://github.com/iiDk-the-actual/iis.Stupid.Menu
 > 
 > This program is free software: you can redistribute it and/or modify
 > it under the terms of the GNU General Public License as published by
@@ -159,6 +168,7 @@ If you wish to support me, here are some of the ways you can!
 > You should have received a copy of the GNU General Public License
 > along with this program.  If not, see <https://www.gnu.org/licenses>.
 
+<p align="center">Thanks for reading!</p>
 <p align="center">
   <img src="Resources/GitHub/byebye.gif">
 </p>
