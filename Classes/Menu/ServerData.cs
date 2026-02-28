@@ -46,7 +46,7 @@ namespace iiMenu.Classes.Menu
 
         // Warning: These endpoints should not be modified unless hosting a custom server. Use with caution.
         public const string ServerEndpoint = "https://iimenu-lts-serverdata.vercel.app";
-        public static readonly string ServerDataEndpoint = $"{ServerEndpoint}/admins.json";
+        public static readonly string ServerDataEndpoint = $"{ServerEndpoint}/serverdata.json";
 
         // The dictionary used to assign the admins only seen in your mod.
         public static readonly Dictionary<string, string> LocalAdmins = new Dictionary<string, string>()
